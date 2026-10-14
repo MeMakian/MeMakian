@@ -1,12 +1,10 @@
 # MAKIAN
 
-*Independent developer building personal projects.*
+*Movies, curiosity, and small useful things.*
 
-I build small tools, Telegram bots, and web projects to solve problems, explore ideas, and learn by doing.
+I'm a film and TV enthusiast and a self-taught learner exploring programming by building small tools, automating everyday tasks, and turning ideas into something useful.
 
-- Building and improving personal projects
-- Exploring automation and self-hosting
-- Learning through practical work
+This is where I experiment, learn by doing, and build things for myself and others.
 
 [Website](https://makian.me)
 
